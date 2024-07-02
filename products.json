@@ -1,0 +1,9 @@
+[
+    {"id":1,"name":"iPhone","price":20},
+    {"id":2,"name":"Poco X3 Pro","price":30},
+    {"id":3,"name":"Samsung A53","price":40},
+    {"id":4,"name":"test","price":"100"},
+    {"id":5,"name":"test2","price":"55"},
+    {"id":6,"name":"NOKIA","price":"70"},
+    {"id":7,"name":"Samsung","price":"80"}
+]
